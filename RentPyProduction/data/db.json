@@ -1,0 +1,63 @@
+{
+  "users": [],
+  "listings": [
+    {
+      "id": "c3d9f389-f555-4bcc-b2a6-4344bd817144",
+      "hostId": "seed",
+      "title": "Casa moderna con piscina",
+      "city": "Ciudad del Este",
+      "category": "Casa",
+      "price": 350000,
+      "guests": 6,
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80",
+      "description": "Casa cómoda para familias y grupos.",
+      "rating": 4.9,
+      "status": "active",
+      "createdAt": "2026-09-30T17:38:33.895Z"
+    },
+    {
+      "id": "8b374b14-6ae7-4811-a290-396e85ad6cc8",
+      "hostId": "seed",
+      "title": "Habitación privada acogedora",
+      "city": "Presidente Franco",
+      "category": "Habitación",
+      "price": 120000,
+      "guests": 2,
+      "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1000&q=80",
+      "description": "Habitación para viajeros.",
+      "rating": 4.9,
+      "status": "active",
+      "createdAt": "2026-09-30T17:38:33.898Z"
+    },
+    {
+      "id": "4146d5b3-ab06-4129-895b-e31a1a83f90c",
+      "hostId": "seed",
+      "title": "Quinta familiar para descansar",
+      "city": "Hernandarias",
+      "category": "Quinta",
+      "price": 550000,
+      "guests": 10,
+      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1000&q=80",
+      "description": "Espacio amplio para grupos.",
+      "rating": 4.7,
+      "status": "active",
+      "createdAt": "2026-09-30T17:38:33.898Z"
+    },
+    {
+      "id": "a87c7181-f292-4561-8a50-6b38f3847d4a",
+      "hostId": "seed",
+      "title": "Departamento premium",
+      "city": "Asunción",
+      "category": "Departamento",
+      "price": 390000,
+      "guests": 4,
+      "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80",
+      "description": "Departamento urbano.",
+      "rating": 4.8,
+      "status": "active",
+      "createdAt": "2026-09-30T17:38:33.898Z"
+    }
+  ],
+  "bookings": [],
+  "sessions": []
+}
